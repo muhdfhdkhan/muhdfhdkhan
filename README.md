@@ -11,7 +11,10 @@
 
 - 📫 How to reach me **muhdfhdkhan@gmail.com**
 
-- 📄 Know about my experiences [WordPress & eCommerce Developer Freelance / Personal Projects | 2022 – Present Built responsive and high-converting eCommerce landing pages. Integrated WooCommerce and payment gateways for seamless transactions. Optimized websites for speed, SEO, and mobile responsiveness. Cybersecurity Specialist NITSEP Certified | 2023 – Present Conducted penetration testing and network vulnerability assessments. Skilled in Cisco Cyber Threat Management tools for threat detection. Developed secure protocols for web and software projects. C++ Software Developer Personal & Academic Projects | 2021 – Present Developed Airline Management System and other console-based applications. Focused on file handling, data security, and modular programming. Built projects that demonstrate problem-solving and logical thinking.](WordPress & eCommerce Developer Freelance / Personal Projects | 2022 – Present Built responsive and high-converting eCommerce landing pages. Integrated WooCommerce and payment gateways for seamless transactions. Optimized websites for speed, SEO, and mobile responsiveness. Cybersecurity Specialist NITSEP Certified | 2023 – Present Conducted penetration testing and network vulnerability assessments. Skilled in Cisco Cyber Threat Management tools for threat detection. Developed secure protocols for web and software projects. C++ Software Developer Personal & Academic Projects | 2021 – Present Developed Airline Management System and other console-based applications. Focused on file handling, data security, and modular programming. Built projects that demonstrate problem-solving and logical thinking.)
+- 📄 Know about my experiences
+      WordPress & eCommerce: Built responsive, high-converting landing pages with WooCommerce integration.
+      Cybersecurity: Certified in Cisco Cyber Threat Management & Pentesting; conducted network assessments.
+      C++ Development: Created console-based applications like Airline Management System with secure data handling.
 
 - ⚡ Fun fact **I love combining creativity with logic – I’ve built websites that sell products while also writing C++ programs that manage airline bookings… and I’ve never mixed up the code with the checkout page! 😄**
 
