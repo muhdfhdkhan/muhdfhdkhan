@@ -1,30 +1,175 @@
-<h1 align="center">Hi 👋, I'm Muhammad Fahad Khan</h1>
-<h3 align="center">WordPress Developer | Cybersecurity Specialist | C++ Programmer</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhdfhdkhan&label=Profile%20views&color=0e75b6&style=flat" alt="muhdfhdkhan" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Muhammad%20Fahad%20Khan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Software%20Developer%20%7C%20Founder%20of%20National%20Tech%20Forge&descAlignY=58&descSize=18" width="100%"/>
 
-- 🔭 I’m currently working on **DDOS and DOS preventer Tool**
+<br/>
 
-- 🌱 I’m currently learning **WordPress Security Plugins**
+<a href="https://github.com/yourusername">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Software+Developer;Founder+%40+National+Tech+Forge;Building+Enterprise+Software;ERP+%7C+CRM+%7C+POS+%7C+AI+Apps;Turning+Ideas+Into+Production-Ready+Code&font=Fira+Code&center=true&width=650&height=45&color=58A6FF&vCenter=true&size=22&pause=1500" alt="Typing SVG" />
+</a>
 
-- 👯 I’m looking to collaborate on **Cyber Security Tool**
+<br/><br/>
 
-- 📫 How to reach me **muhdfhdkhan@gmail.com**
+<img src="https://img.shields.io/badge/📍_Location-Faisalabad,_Pakistan-2c5364?style=for-the-badge&labelColor=0f2027"/>
+<img src="https://img.shields.io/badge/🎓_Status-BS_Computer_Science_Student-203a43?style=for-the-badge&labelColor=0f2027"/>
+<img src="https://img.shields.io/badge/🤝_Available-Freelance_%26_Remote-2c5364?style=for-the-badge&labelColor=0f2027"/>
 
-- 📄 Know about my experiences
-      WordPress & eCommerce: Built responsive, high-converting landing pages with WooCommerce integration.
-      Cybersecurity: Certified in Cisco Cyber Threat Management & Pentesting; conducted network assessments.
-      C++ Development: Created console-based applications like Airline Management System with secure data handling.
+</div>
 
-- ⚡ Fun fact **I love combining creativity with logic – I’ve built websites that sell products while also writing C++ programs that manage airline bookings… and I’ve never mixed up the code with the checkout page! 😄**
+<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 🚀 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+I'm a passionate **Full Stack Software Developer** from Faisalabad, Pakistan, specializing in building scalable, high-performance, and user-focused software solutions. I enjoy transforming ideas into production-ready applications using modern technologies and clean architecture.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhdfhdkhan&show_icons=true&locale=en&layout=compact" alt="muhdfhdkhan" /></p>
+My primary focus is developing **enterprise software** — ERP systems, CRM platforms, POS systems, healthcare solutions, educational platforms, inventory management systems, and AI-powered business applications.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhdfhdkhan&show_icons=true&locale=en" alt="muhdfhdkhan" /></p>
+```yaml
+name: Muhammad Fahad Khan
+role: Full Stack Software Developer
+company: Founder @ National Tech Forge
+location: Faisalabad, Pakistan
+education: BS Computer Science Student
+focus: Enterprise Software · AI-Powered Applications · Clean Architecture
+currently_learning: Emerging Web & AI Technologies
+open_to: Freelance & Remote Opportunities
+fun_fact: I turn coffee ☕ into scalable code 🚀
+```
+
+<br/>
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs&theme=dark" />
+
+<br/><br/>
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express&theme=dark" />
+
+<br/><br/>
+
+**Database**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark" />
+
+<br/><br/>
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,netlify,vercel&theme=dark" />
+
+</div>
+
+<br/>
+
+## 💼 What I Build
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**🏢 Enterprise Systems**
+- Enterprise ERP Systems
+- School Management Systems
+- Hospital Management Systems
+- Garage Management Systems
+- CRM Platforms
+- Business Automation Solutions
+
+</td>
+<td width="50%" valign="top">
+
+**⚙️ Applications & Tools**
+- POS & Inventory Software
+- AI-Powered Applications
+- Admin Dashboards
+- REST APIs
+- Portfolio Websites
+- Custom Business Software
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📌 Current Focus
+
+<div align="center">
+
+| 🏗️ Enterprise Software | 🤖 AI-Assisted Development | 🎨 Modern UI/UX |
+|:---:|:---:|:---:|
+| ☁️ Cloud-Based Apps | ⚡ High-Performance Web | 🧩 Serverless Architecture |
+| 🌍 Open Source Projects | | |
+
+</div>
+
+<br/>
+
+## 📊 GitHub Goals
+
+- 🎯 Build impactful open-source projects
+- 🧹 Share clean and reusable code
+- 📚 Learn emerging technologies
+- 🤝 Contribute to the developer community
+- 💡 Create software that solves real-world problems
+
+<br/>
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true" width="100%"/>
+
+</div>
+
+<br/>
+
+## 📫 Let's Connect
+
+<div align="center">
+
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/yourusername">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/yourusername">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Portfolio-Coming_Soon-2c5364?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 💬 "Great software isn't just built—it's engineered with purpose, performance, and passion."
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+
+<img src="https://komarev.com/ghpvc/?username=yourusername&color=2c5364&style=flat-square&label=Profile+Views" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%"/>
