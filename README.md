@@ -122,7 +122,7 @@ fun_fact: I turn coffee ☕ into scalable code 🚀
 
 <br/>
 
-## 📈 GitHub Stats
+
 
 
 <br/>
@@ -140,8 +140,8 @@ fun_fact: I turn coffee ☕ into scalable code 🚀
 <a href="https://github.com/muhdfhdkhan">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-Coming_Soon-2c5364?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://muhdfahad.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-2c5364?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
