@@ -130,7 +130,7 @@ identity:
 
 <br/>
 
-## `📊` System Stats
+
 
 <div align="center">
 
