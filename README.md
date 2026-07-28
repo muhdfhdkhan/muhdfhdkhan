@@ -124,20 +124,6 @@ fun_fact: I turn coffee ☕ into scalable code 🚀
 
 ## 📈 GitHub Stats
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true" width="100%"/>
-
-</div>
 
 <br/>
 
@@ -145,13 +131,13 @@ fun_fact: I turn coffee ☕ into scalable code 🚀
 
 <div align="center">
 
-<a href="mailto:your-email@example.com">
+<a href="mailto:muhdfhdkhan@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://linkedin.com/in/yourusername">
+<a href="https://linkedin.com/in/muhdfhdkhan">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://github.com/yourusername">
+<a href="https://github.com/muhdfhdkhan">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="#">
